@@ -62,7 +62,7 @@ including partial or in-progress work, is appreciated.
    reside and leave a comment in the file describing what issue you are trying
    to address.
 
-5. Open a pull request to the repository with ``[WIP]`` appended to the front
+5. Open a pull request to the repository starting your title with ``[WIP]`` 
    so that the core team is aware that you are actively pursuing the issue.
    When creating a pull request, make sure that the title clearly and concisely
    described what your code does. For example, we might use the title "Updated
